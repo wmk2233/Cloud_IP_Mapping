@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- masscan v1.0 scan -->
+<?xml-stylesheet href="" type="text/xsl"?>
+<nmaprun scanner="masscan" start="1720062602" version="1.0-BETA"  xmloutputversion="1.03">
+<scaninfo type="syn" protocol="tcp" />
+<host endtime="1720062602"><address addr="203.34.106.200" addrtype="ipv4"/><ports><port protocol="tcp" portid="810"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062602"><address addr="42.202.155.215" addrtype="ipv4"/><ports><port protocol="tcp" portid="446"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062602"><address addr="203.34.106.200" addrtype="ipv4"/><ports><port protocol="tcp" portid="6"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062602"><address addr="58.220.72.139" addrtype="ipv4"/><ports><port protocol="tcp" portid="299"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062624"><address addr="122.228.216.157" addrtype="ipv4"/><ports><port protocol="tcp" portid="970"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062751"><address addr="1.192.194.202" addrtype="ipv4"/><ports><port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062751"><address addr="203.34.106.200" addrtype="ipv4"/><ports><port protocol="tcp" portid="315"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<host endtime="1720062751"><address addr="111.180.137.94" addrtype="ipv4"/><ports><port protocol="tcp" portid="98"><state state="open" reason="syn-ack" reason_ttl="128"/></port></ports></host>
+<runstats>
+<finished time="1720062843" timestr="2024-07-04 11:14:03" elapsed="286" />
+<hosts up="8" down="0" total="8" />
+</runstats>
+</nmaprun>
